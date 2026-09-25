@@ -1,0 +1,73 @@
+<div align="center">
+
+<img src="./assets/header.gif" width="100%" alt="Sujan Thadarai - Backend Engineer"/>
+
+<a href="https://linkedin.com/in/sujanthadarai710"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/sujanthadarai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="sujanthadarai710@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/sujan_thadarai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://sujanthadarai.github.io/dev-scene"><img src="https://img.shields.io/badge/Live_3D_Profile-05070C?style=for-the-badge&logo=threedotjs&logoColor=58A6FF"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Building+scalable+backend+systems+with+Python+%26+Django;Bridging+AI+with+real-world+applications;6%2B+years+shipping+production-grade+APIs;Mentoring+the+next+generation+of+developers" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Experience-6%2B_years-58A6FF?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Mentored-200%2B_devs-A78BFA?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Scale-10k_concurrent_users-F472B6?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Based_in-Kathmandu,_Nepal-7EE787?style=flat-square&labelColor=0D1117"/>
+
+</div>
+
+---
+
+## ⚡ About
+
+Senior Web Developer with **6+ years** designing and shipping scalable Python/Django systems. I focus on **backend architecture, API design, AI/ML integration** (chatbots, recommendation engines) and **cloud deployment**. I've led engineering teams, mentored **200+ developers**, and built systems that hold up under real production load.
+
+<div align="center">
+<img src="./assets/terminal.gif" width="80%" alt="terminal intro"/>
+</div>
+
+- 🔭 Currently building AI-integrated backend systems
+- 🧠 Deepening expertise in LLM-powered applications and RAG pipelines
+- 🤝 Open to backend, API architecture, and AI integration collaborations
+- 📫 Reach me at **sujanthadarai710@gmail.com**
+- 🌐 Explore my [interactive 3D developer profile](https://sujanthadarai.github.io/dev-scene) — built with Three.js
+
+---
+
+## 🎯 Core Competencies
+
+<div align="center">
+
+| | Area | Expertise |
+|:-:|:---|:---|
+| 🏗️ | **Architecture** | Scalable Backend · Microservices · Multi-tenant SaaS |
+| 🔌 | **API Design** | REST & GraphQL · JWT Auth · API Optimization |
+| 🤖 | **AI / ML** | Chatbots · Recommendation Engines · Rasa · OpenAI API |
+| 🗄️ | **Databases** | PostgreSQL Tuning · Query Optimization · Redis Caching |
+| ☁️ | **DevOps** | Docker · AWS (EC2, S3, RDS, Route 53) · CI/CD |
+| 👨‍🏫 | **Leadership** | Technical Mentoring · Team Management · Agile |
+
+</div>
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,react,js,html,css,tailwind,bootstrap&perline=9"/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,docker,aws,nginx,githubactions,git,postman,pytest&perline=11"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rasa-5A17EE?style=flat-square&logo=rasa&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=f
