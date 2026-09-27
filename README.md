@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Learning+scalable+backend+systems+with+Python+%26+Django;Bridging+AI+with+real-world+applications;6%2B+years+shipping+production-grade+APIs;Mentoring+the+next+generation+of+developers" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Learning+scalable+backend+systems+with+Python+%26 SVG"/>
 
 <br/>
 
