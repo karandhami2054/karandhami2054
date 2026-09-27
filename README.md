@@ -23,19 +23,17 @@
 
 ## ⚡ About
 
-Senior Web Developer with **6+ years** designing and shipping scalable Python/Django systems. I focus on **backend architecture, API design, AI/ML integration** (chatbots, recommendation engines) and **cloud deployment**. I've led engineering teams, mentored **200+ developers**, and built systems that hold up under real production load.
+I am learning data science using Python, and I am working on a project to understand how data can be collected, cleaned, analyzed, and visualized. In my project, I use Python libraries such as Pandas and NumPy to work with datasets and perform basic data analysis. I also use Matplotlib and Seaborn to create graphs and understand patterns in the data. As I continue learning, I am exploring basic statistics and machine learning concepts to make predictions from data. This project is helping me improve my Python programming, analytical thinking, problem-solving, and data visualization skills while gaining practical experience in data science.
 
 <div align="center">
 <img src="./assets/terminal.gif" width="80%" alt="terminal intro"/>
 </div>
 
-- 🔭 Currently building AI-integrated backend systems
-- 🧠 Deepening expertise in LLM-powered applications and RAG pipelines
+- 🔭 Currently learning how AI-integrated backend systems work.
+- 🧠 learning LLM-powered applications and RAG pipelines
 - 🤝 Open to backend, API architecture, and AI integration collaborations
-- 📫 Reach me at **sujanthadarai710@gmail.com**
-- 🌐 Explore my [interactive 3D developer profile](https://sujanthadarai.github.io/dev-scene) — built with Three.js
-
----
+- 📫 Reach me at **karandhami2054@gmail.com**
+- ---
 
 ## 🎯 Core Competencies
 
