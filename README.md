@@ -8,14 +8,9 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Building+scalable+backend+systems+with+Python+%26+Django;Bridging+AI+with+real-world+applications;6%2B+years+shipping+production-grade+APIs;Mentoring+the+next+generation+of+developers" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Learning+scalable+backend+systems+with+Python+%26+Django;Bridging+AI+with+real-world+applications;6%2B+years+shipping+production-grade+APIs;Mentoring+the+next+generation+of+developers" alt="Typing SVG"/>
 
 <br/>
-
-<img src="https://img.shields.io/badge/Experience-6%2B_years-58A6FF?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Mentored-200%2B_devs-A78BFA?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Scale-10k_concurrent_users-F472B6?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Based_in-Kathmandu,_Nepal-7EE787?style=flat-square&labelColor=0D1117"/>
 
 </div>
 
