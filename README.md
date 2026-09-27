@@ -6,15 +6,14 @@
 <a href="https://github.com/karandhami2054"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="karandhami2054@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/><br/>
-
+<br/>
 </div>
 
 ---
 
 ## ⚡ About
 
-I am learning data science using Python, and I am working on a project to understand how data can be collected, cleaned, analyzed, and visualized. In my project, I use Python libraries such as Pandas and NumPy to work with datasets and perform basic data analysis. I also use Matplotlib and Seaborn to create graphs and understand patterns in the data. As I continue learning, I am exploring basic statistics and machine learning concepts to make predictions from data. This project is helping me improve my Python programming, analytical thinking, problem-solving, and data visualization skills while gaining practical experience in data science.
+I am learning data science using Python, and I am working on a project to understand how data can be collected, cleaned, analyzed, and visualized. In my project, I use Python libraries such as Pandas and NumPy to work with datasets and perform basic data analysis. As I continue learning, I am exploring basic statistics and machine learning concepts to make predictions from data. This project is helping me improve my Python programming, analytical thinking, problem-solving, and data visualization skills while gaining practical experience in data science.
 
 <div align="center">
 <img src="./assets/terminal.gif" width="80%" alt="terminal intro"/>
@@ -26,22 +25,6 @@ I am learning data science using Python, and I am working on a project to unders
 - 📫 Reach me at **karandhami2054@gmail.com**
 - ---
 
-## 🎯 Core Competencies
-
-<div align="center">
-
-| | Area | Expertise |
-|:-:|:---|:---|
-| 🏗️ | **Architecture** | Scalable Backend · Microservices · Multi-tenant SaaS |
-| 🔌 | **API Design** | REST & GraphQL · JWT Auth · API Optimization |
-| 🤖 | **AI / ML** | Chatbots · Recommendation Engines · Rasa · OpenAI API |
-| 🗄️ | **Databases** | PostgreSQL Tuning · Query Optimization · Redis Caching |
-| ☁️ | **DevOps** | Docker · AWS (EC2, S3, RDS, Route 53) · CI/CD |
-| 👨‍🏫 | **Leadership** | Technical Mentoring · Team Management · Agile |
-
-</div>
-
----
 
 ## 🧰 Tech Stack
 
